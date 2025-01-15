@@ -1,6 +1,6 @@
 
 import styled from "styled-components";
-import Icons from '/Users/mac/Projects/Learning_react_app/my-fifth-app/src/images/padlock.png';
+import Icons from "../images/padlock.png";
 import { Link, useNavigate} from "react-router-dom";
 
 const Section = styled.div`
